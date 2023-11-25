@@ -1,0 +1,68 @@
+[
+  {
+    "id": 2,
+    "categoria": "braço",
+    "exercicios": [
+      {
+        "id": 2,
+        "nome": "Flexão de Braço",
+        "descricao": "Exercício para fortalecimento dos músculos do peito e tríceps.",
+        "repeticoes": 15,
+        "series": 3,
+        "nivel": "intermediário"
+      },
+      {
+        "id": 3,
+        "nome": "Curl de Bíceps",
+        "descricao": "Este exercício foca nos músculos do bíceps.",
+        "repeticoes": 12,
+        "series": 4,
+        "nivel": "avançado"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "categoria": "pernas",
+    "exercicios": [
+      {
+        "id": 5,
+        "nome": "Agachamento",
+        "descricao": "Exercício para fortalecimento dos músculos das pernas e glúteos.",
+        "repeticoes": 20,
+        "series": 3,
+        "nivel": "iniciante"
+      },
+      {
+        "id": 6,
+        "nome": "Avanço",
+        "descricao": "Este exercício trabalha os músculos das pernas.",
+        "repeticoes": 15,
+        "series": 3,
+        "nivel": "intermediário"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "categoria": "abdômen",
+    "exercicios": [
+      {
+        "id": 8,
+        "nome": "Crunch",
+        "descricao": "Exercício para fortalecimento dos músculos abdominais.",
+        "repeticoes": 20,
+        "series": 3,
+        "nivel": "iniciante"
+      },
+      {
+        "id": 9,
+        "nome": "Prancha",
+        "descricao": "Este exercício é ótimo para fortalecer o core.",
+        "repeticoes": "30 segundos",
+        "series": 3,
+        "nivel": "intermediário"
+      }
+    ]
+  }
+]
