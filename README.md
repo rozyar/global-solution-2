@@ -22,12 +22,11 @@
 ### Instalação Global
 
 ### Arquivo global-solution
-
 ```bash
 npm install
 npm run dev
-
-### Arquivo server
+```
+### Arquivo server-solution
 
 ```bash
 npm install
